@@ -6,7 +6,7 @@
 # 如何使用
 ## gradle配置
 build.gradle 配置如下
-```json
+```java
 allprojects {
 	repositories {
 		...
@@ -15,7 +15,7 @@ allprojects {
 }
 ```
 然后dependency添加：
-```json
+```java
 dependencies {
 	compile 'com.github.PhilGeng:LoginRegister:1.0.0'
 }
@@ -30,7 +30,7 @@ dependencies {
 	</repository>
 </repositories>
 ```
-然后添加dependency
+然后添加 dependency
 ```xml
 <dependency>
 	<groupId>com.github.PhilGeng</groupId>
