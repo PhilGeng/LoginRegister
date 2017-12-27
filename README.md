@@ -18,7 +18,7 @@ allprojects {
 然后dependency添加：
 ```java
 dependencies {
-	compile 'com.github.PhilGeng:LoginRegister:1.0.0'
+	compile 'com.github.PhilGeng:LoginRegister:v1.0.0'
 }
 ```
 
