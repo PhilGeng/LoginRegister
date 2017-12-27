@@ -1,6 +1,6 @@
 # LoginRegister
 之前看到一个MD风格的Login界面，但是可自定义处不是很多，所以我就自己仿照了一个，除UI借鉴之外，无一处代码抄袭，勿喷,谢谢！
-[![](https://jitpack.io/v/PhilGeng/LoginRegister.svg)](https://jitpack.io/#PhilGeng/LoginRegister)
+#### [![](https://jitpack.io/v/PhilGeng/LoginRegister.svg)](https://jitpack.io/#PhilGeng/LoginRegister)
 # 效果图
 ![效果图](https://github.com/PhilGeng/LoginRegister/blob/master/screenshot/2.gif)
 
