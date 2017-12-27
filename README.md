@@ -42,7 +42,7 @@ dependencies {
 
 ## 布局中使用：
 ```xml
-<club.tranch.mycustoms.LoginRegister
+<club.tranch.loginregister.LoginRegister
     android:layout_width="match_parent"
     android:layout_height="match_parent"/>
 ```
